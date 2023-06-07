@@ -1,0 +1,31 @@
+{
+    "vdb": {
+        "hoja": "Vulnerabilities",
+        "columna_vulnerabilidad": "Vulnerability id",
+        "columna_componente": "Component affected",
+        "estado": "Status"
+    },
+    "vdb_generado": {
+        "nessus": {
+            "Plugin ID": "n/a",
+            "CVE": "a",
+            "Risk": "n/a",
+            "CVSS v2.0 Base Score": "h",
+            "CVSS v3.0 Base Score": "i",
+            "Plugin Publication Date": "f",
+            "Name": "b",
+            "Synopsis": "c",
+            "Solution": "m"
+        },
+        "columnas_criticidades": {
+            "cvssV2_basescore": "h",
+            "cvssV3_0_basescore": "i",
+            "cvssV3_1_basescore": "j",
+            "cvssV3_0_basescore_recalculo": "k",
+            "cvssV3_1_basescore_recalculo": "l",
+            "fecha_publicacion": "f"
+        }
+    },
+    "nist_api_key": "32651a79-487f-4f07-a95d-2e7d6f904fcc",
+    "nivel_log": "info"
+}

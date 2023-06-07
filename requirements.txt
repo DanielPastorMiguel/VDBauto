@@ -1,0 +1,12 @@
+Package            Version
+------------------ ---------
+certifi            2022.12.7
+charset-normalizer 3.1.0
+customtkinter      5.1.2
+cvss               2.6
+darkdetect         0.8.0
+et-xmlfile         1.1.0
+idna               3.4
+openpyxl           3.1.2
+requests           2.29.0
+urllib3            1.26.15
